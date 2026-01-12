@@ -38,3 +38,15 @@ Variant control for chopped, screwed, radio, and cinematic cuts
   ai-production-prompts.md
 README.md
 LICENSE
+🔐 Licensing
+All documentation, genre definitions, and blueprints are protected.
+License: CC BY-NC-ND 4.0 (or Custom Proprietary if applied)
+Restrictions:
+No commercial use
+No derivatives
+No AI training or redistribution without authorization
+For licensing inquiries or authorized use, contact the rights holder.
+👤 Creator
+Eric authorized Axelton
+Zombie Bay Funk Trap / Haunted Hoard
+All rights reserved.
