@@ -15,3 +15,4 @@ You may NOT:
 • Reproduce or redistribute this framework in whole or in part as a competing system.
 
 For licensing inquiries, permissions, or commercial use, contact the rights holder.
+standard CC BY-NC-ND 4.0
